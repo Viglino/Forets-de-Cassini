@@ -46,4 +46,5 @@ de qualité de la représentation de leur forme et d’exhaustivité de leur inv
 
 ## Cartes en ligne
 
-
+- [Ma Carte comparative avec les forêts actuelles](https://macarte.ign.fr/carte/fV2zlM/Forets-de-Cassini)
+- [Les Forêts de Cassini (carte narrative)](https://macarte.ign.fr/carte/mLtziN/Les-Forets-de-Cassini)
