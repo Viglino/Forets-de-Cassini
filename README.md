@@ -1,5 +1,7 @@
 # Forets-de-Cassini
 
+![](https://repository-images.githubusercontent.com/993675128/354a99c1-87af-4c97-8923-043c3848c336)
+
 ## Analyse quantitative et comparaison avec les forêts actuelles
 
 Daniel Vallauri, Audrey Grel, Evelyne Granier, Jean-Luc Dupouey. Les forêts de Cassini. Analyse quantitative et comparaison avec les forêts actuelles. [Rapport Technique] WWF. 2012, 65 p. ⟨[hal-01267936](https://hal.science/hal-01267936)⟩
