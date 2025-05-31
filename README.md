@@ -10,8 +10,9 @@ Daniel Vallauri, Audrey Grel, Evelyne Granier, Jean-Luc Dupouey. Les forêts de 
 [hal-01267936](https://hal.science.fr/hal-01267936)
 
 
-Le présent travail rend disponible sous forme de couche SIG l’ensemble des contours des forêts
-représentées sur la carte de Cassini. Les couches SIG obtenues (forêts de Cassini, croisement avec
+Le présent dossier rend disponible sous forme de couche SIG l’ensemble des contours forestiers des 181 feuilles 
+au 1:86&nbsp;400 de la carte de Cassini digitalisées, lors de l'étude [Vallauri et al.](https://journals.openedition.org/geohist/1343) en 2012.
+Soit, les couches SIG obtenues (forêts de Cassini, croisement avec
 Corine Land Cover) ainsi que les données quantitatives par entité administrative fournies
 sur le CD joint au rapport de 2012, de même que les cartes régionales ou départementales.
 
