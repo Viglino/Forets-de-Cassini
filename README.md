@@ -4,13 +4,18 @@
 
 ## Analyse quantitative et comparaison avec les forêts actuelles
 
-Daniel Vallauri, Audrey Grel, Evelyne Granier, Jean-Luc Dupouey. Les forêts de Cassini. Analyse quantitative et comparaison avec les forêts actuelles. [Rapport Technique] WWF. 2012, 65 p. ⟨[hal-01267936](https://hal.science/hal-01267936)⟩
+<img src="https://raw.githubusercontent.com/Viglino/Forets-de-Cassini/refs/heads/main/Vallauri_et_al_2102.jpg" width="150" align="left" />
+Daniel Vallauri, Audrey Grel, Evelyne Granier, Jean-Luc Dupouey. Les forêts de Cassini. Analyse quantitative et comparaison avec les forêts actuelles. [Rapport Technique] WWF. 2012, 65 p.
+
+[hal-01267936](https://hal.science.fr/hal-01267936)
+
 
 Le présent travail rend disponible sous forme de couche SIG l’ensemble des contours des forêts
 représentées sur la carte de Cassini. Les couches SIG obtenues (forêts de Cassini, croisement avec
-Corine Land Cover) ainsi que les données quantitatives par entité administrative sont fournies
+Corine Land Cover) ainsi que les données quantitatives par entité administrative fournies
 sur le CD joint au rapport de 2012, de même que les cartes régionales ou départementales.
 
+----
 Ces données sont mises à disposition **libre de droit pour tout usage, sous réserve de mentionner la référence à ce rapport.**
 
 Les couches SIG ouvrent des possibilités d’analyses complémentaires à tous les gestionnaires, historiens ou écologues... qui souhaitent en faire usage.
