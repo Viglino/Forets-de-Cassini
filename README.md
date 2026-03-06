@@ -26,7 +26,7 @@ Les couches SIG ouvrent des possibilités d’analyses complémentaires à tous 
 
 L’information sur les forêts de la carte de Cassini est fiable à petite échelle (sans grossissement excessif) et pour les grandes forêts anciennes. 
 
-<img src="https://github.com/Viglino/Forets-de-Cassini/blob/main/annexe4/Carte4-00_Croisement_France_enti%C3%A8re.jpg?raw=true" width="400" align="center" />
+<img src="https://raw.githubusercontent.com/Viglino/Forets-de-Cassini/refs/heads/main/annexe4/Carte4-00_Croisement_France_enti%C3%A8re.jpg" width="400" align="cebter" />
 
 Comparée aux différentes cartes anciennes représentant les forêts de France
 (Dupouey et al., 2007a), la carte de Cassini présente&nbsp;:
